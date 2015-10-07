@@ -1,2 +1,4 @@
-# hello-jenkins
-Test application to test out Jenkins (CI and CD)
+hello-jenkins
+=============
+
+My super sample app to test out Jenkins.
